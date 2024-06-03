@@ -32,8 +32,6 @@
     display: flex;
     flex-direction: column;
     gap: 24px;
-
-
 }
 
 .prof-item {
@@ -63,8 +61,8 @@
     padding: 12px 24px;
     background-color: #15b2f5;
     display: block;
-  
 }
+
 @media only screen and (min-width: 375px) {
    .prof-link{
     font-size: 18px;
@@ -94,7 +92,6 @@
         font-size: 52px;
         line-height: 1.23077;
         margin-bottom: 24px;
-
     }
 
     .prof-text {
